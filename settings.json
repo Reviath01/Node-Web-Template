@@ -1,0 +1,6 @@
+{
+    "host": "MAIL_HOST",
+    "mail": "MAIL",
+    "name": "MAIL_USER_NAME",
+    "pass": "MAIL_PASS_CODE"
+}
